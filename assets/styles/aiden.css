@@ -114,6 +114,10 @@ font-size: var(--heading-two);
     color: var(--black-Color);
     border: 1px solid var(--black-Color);
 }
+.quoteb1b4a5dbe8b0424f .subscribe2-wrapper .subscribe-form input:focus-visible{
+border: none;
+outline: none;
+}
 .quoteb1b4a5dbe8b0424f .subscribe2-wrapper .subscribe-form button:hover{
     background-color: var(--secondary-Color);
     color: var(--main-Background-Color);
