@@ -130,3 +130,7 @@ outline: none;
 color: var(--black-Color);
 font-weight: var(--button-font-weight);
 }
+.flaneft7gnhn3qye a,
+.flaneft7gnhn3qye a:hover{
+    color: var(--grey-Color)
+    }
