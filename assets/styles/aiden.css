@@ -17,14 +17,20 @@
 	--main-Background-Color: #ffffff;
     --secondary-Background-Color: #D6F2FE;
 	--secondary-Font: "Montserrat", sans-serif;
-	--button-padding: 5px 25px 5px 25px;
+	--button-padding: 5px 25px;
 	--button-border-radius: 0px;
 	--button-font-weight: 500;
-	--heading: 35px;
-    --heading-two:25px;
+    --heading:60px;
+	--heading-large: 35px;
+    --heading-medium: 25px;
+    --paragraph: 18px;
+    --logo-border-radius: 15px;
+    --jumbotron-padding: 50px 6px;
+    --section-padding:30px 0px;
+
 }
 .fdb-block {
-	padding: 30px 0;
+    padding: 0rem 0;
 }
 /*headere2d79a3ca0c8814a*/
 .headere2d79a3ca0c8814a .head {
@@ -39,19 +45,23 @@
     color: var(--main-Background-Color);
     box-shadow: none;
     font-weight: bold;
-    padding: 5px 25px 5px 25px;
+    padding: var(--button-padding);
     border-radius: var(--button-border-radius);
 }
 /*aboutp3dce575962b3c369*/
 .aboutp3dce575962b3c369 .jumbotron{
     background-color: var(--main-Background-Color);
+    padding: var(--jumbotron-padding);
 }
 .aboutp3dce575962b3c369 .badge {
     color:  var(--warning-Color);
     background-color:  var(--main-Background-Color);
+    margin-left: -8px;
+    font-size: var(--heading-medium);
 }
 .aboutp3dce575962b3c369 .DescriptionHeading {
     color: var(--black-Color);
+    font-size: var(--heading);
 }
 .aboutp3dce575962b3c369 .DescriptionPara {
     color: var(--black-Color);
@@ -64,10 +74,23 @@
     padding: 5px 25px 5px 25px;
     border-radius: var(--button-border-radius);
 }
+/* clientsc724c807cc8b8e9ab */
+.clientsc724c807cc8b8e9ab h2{
+    font-size: var(--heading-medium);
+}
+.clientsc724c807cc8b8e9ab span{
+    font-size: var(--paragraph);
+}
 /*fuspaftf6hutoj7e*/
 .fuspaftf6hutoj7e h1{
-    font-size: var(--heading);
+    font-size: var(--heading-large);
     font-weight: 400;
+}
+.fuspaftf6hutoj7e .lead{
+    font-size: var(--paragraph);
+}
+.fuspaftf6hutoj7e strong {
+    font-weight:var(--button-font-weight);
 }
 .fuspaftf6hutoj7e h3{
     font-size: var(--heading-two);
