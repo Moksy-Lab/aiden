@@ -101,16 +101,26 @@
     font-size: var(--heading-large);
 }
 .abouteb092de7c8df0610 p{
-    font-weight: var(--button-font-weight);
+    font-weight: 400;
     font-size: var(--paragraph);
 }
 /*productsfd232222df02a491*/
 .productsfd232222df02a491 .title {
     color: var(--black-Color);
+    font-size: var(--heading-medium);
 }
 .productsfd232222df02a491 .blob-btn:before{
     border: 0px;
 }
+/*counteraf598102c9dad94e */
+.counteraf598102c9dad94e h2{
+    font-size: var(--heading-large);
+}
+.counteraf598102c9dad94e h4{
+    font-size: var(--heading-medium);
+}
+
+
 /*teamtmpxpt1wbh8*/
 .teamtmpxpt1wbh8 h1{
 font-size: var(--heading-two);
