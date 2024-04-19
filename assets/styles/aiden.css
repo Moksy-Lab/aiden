@@ -97,11 +97,12 @@
     font-weight: var(--button-font-weight);
 }
 /*abouteb092de7c8df0610*/
-.abouteb092de7c8df0610 h1{
-    font-size: var(--heading);
+.abouteb092de7c8df0610 h2{
+    font-size: var(--heading-large);
 }
 .abouteb092de7c8df0610 p{
     font-weight: var(--button-font-weight);
+    font-size: var(--paragraph);
 }
 /*productsfd232222df02a491*/
 .productsfd232222df02a491 .title {
