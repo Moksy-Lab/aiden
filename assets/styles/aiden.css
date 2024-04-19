@@ -119,11 +119,16 @@
 .counteraf598102c9dad94e h4{
     font-size: var(--heading-medium);
 }
-
-
 /*teamtmpxpt1wbh8*/
 .teamtmpxpt1wbh8 h1{
-font-size: var(--heading-two);
+font-size: var(--heading-large);
+}
+.teamtmpxpt1wbh8 .lead{
+    display: none;
+}
+.teamtmpxpt1wbh8 h4,
+.teamtmpxpt1wbh8 p{
+    font-size: 16px;
 }
 .teamtmpxpt1wbh8 strong{
     font-weight: var(--button-font-weight);
@@ -135,6 +140,9 @@ font-size: var(--heading-two);
 .testimonialtmrwms6esfu .fdb-block .fdb-touch {
     border-top: none;
 }
+.testimonialtmrwms6esfu .h5 {
+    font-size: var(--paragraph);
+}
 /*quoteb1b4a5dbe8b0424f*/
 .quoteb1b4a5dbe8b0424f .subscribe-area {
     background-image: linear-gradient(to right, #00c6fb 0%, #D6F2FE 100%);
@@ -143,6 +151,13 @@ font-size: var(--heading-two);
 .quoteb1b4a5dbe8b0424f .subscribe-text h2,
 .quoteb1b4a5dbe8b0424f .subscribe2-wrapper .subscribe-form input{
     color: var(--black-Color);
+}
+.quoteb1b4a5dbe8b0424f .subscribe-text span{
+    font-size: 16px;
+    font-weight: var(--button-font-weight);
+}
+.quoteb1b4a5dbe8b0424f .subscribe-text h2{
+    font-size: var(--heading-large);
 }
 .quoteb1b4a5dbe8b0424f .subscribe2-wrapper .subscribe-form input{
     color: var(--black-Color);
