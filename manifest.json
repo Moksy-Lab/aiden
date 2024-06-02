@@ -1,0 +1,30 @@
+{
+    "name": "aiden",
+    "description": "Aiden is a contemporary e-learning static website template incorporating cutting-edge technologies. Its primary emphasis is on design, providing an aesthetically pleasing and captivating platform for educational content. Although lacking functional elements, this template establishes an immersive learning environment that engages learners and reinforces educational goals.",
+    "short_name": "aiden",
+    "start_url": "https://moksy.com/templates/aiden",
+    "display": "standalone",
+    "background_color": "#f69435",
+    "theme_color": "#ff914f",
+    "orientation": "portrait",
+    "icons": [
+    {
+    "src": "/assets/images/branding/favicon/apple-icon-36x36.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "purpose": "any maskable"
+    },
+    {
+    "src": "/assets/images/branding/favicon/apple-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "purpose": "any maskable"
+    },
+    {
+    "src": "/assets/images/branding/favicon/android-icon-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "any maskable"
+    }
+    ]
+    }
