@@ -49,6 +49,9 @@
     border-radius: var(--button-border-radius);
 }
 /*aboutp3dce575962b3c369*/
+.aboutp3dce575962b3c369{
+    overflow: hidden;
+}
 .aboutp3dce575962b3c369 .jumbotron{
     background-color: var(--main-Background-Color);
     padding: var(--jumbotron-padding);
